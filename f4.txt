@@ -1,6 +1,6 @@
-Filesystem      Size   Used  Avail Capacity iused               ifree %iused  Mounted on
-/dev/disk1s1   233Gi   80Gi  150Gi    35% 2337053 9223372036852438754    0%   /
-devfs          188Ki  188Ki    0Bi   100%     649                   0  100%   /dev
-/dev/disk1s4   233Gi  2.0Gi  150Gi     2%       2 9223372036854775805    0%   /private/var/vm
-map -hosts       0Bi    0Bi    0Bi   100%       0                   0  100%   /net
-map auto_home    0Bi    0Bi    0Bi   100%       0                   0  100%   /home
+Filesystem   512-blocks      Used Available Capacity iused               ifree %iused  Mounted on
+/dev/disk1s1  489620264 16862fdmgvlkdfnvkjndflbkvn7192 315443560    35% 2337061 9223372036852438746    0%   /
+/dev/disk1s4  489620264   4194344 315443560     2%       2 9223372036854775805    0%   /private/var/vm
+test123
+dlashjfbsbfjhsbhjbdsv
+bfdsbbdkj
