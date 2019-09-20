@@ -4,3 +4,8 @@ devfs          188Ki  188Ki    0Bi   100%     649                   0  100%   /d
 /dev/disk1s4   233Gi  2.0Gi  150Gi     2%       2 9223372036854775805    0%   /private/var/vm
 map -hosts       0Bi    0Bi    0Bi   100%       0                   0  100%   /net
 map auto_home    0Bi    0Bi    0Bi   100%       0                   0  100%   /home
+t
+sdl;v
+df'v
+dfgdf
+
